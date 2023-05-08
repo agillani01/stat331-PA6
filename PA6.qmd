@@ -2,7 +2,7 @@
 title: "Practice Activity 6"
 format: html
 editor: visual
-author: Anson, Johnson, Al
+author: Anson Yamvinij, Al Gillani, Johnson He
 self-contained: true
 ---
 
