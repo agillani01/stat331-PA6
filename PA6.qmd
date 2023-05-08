@@ -2,7 +2,7 @@
 title: "Practice Activity 6"
 format: html
 editor: visual
-author: Anson, Al, Jonathan
+author: Anson, Al, Johnson
 self-contained: true
 ---
 
